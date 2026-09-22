@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: calc(1vw / 14.4);
+}
+body {
+  background-color: aqua;
+  font-family: 'PT Root UI';
+  font-size: 16rem;
+}
